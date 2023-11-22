@@ -1,3 +1,6 @@
+// INTERPOLATION, TEMPLATE LITERALS, STRING METHODS- .toUpperCase() , .slice()
+
+
 const currentUser = 'Grace Hopper'
 //define currentUser
 
